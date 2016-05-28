@@ -4,5 +4,6 @@
     <id>$root$$url$</id>
     <published>$published$</published>
     <updated>$updated$</updated>
-    <summary type="html"><![CDATA[$description$]]></summary>
+    <summary type="html"><![CDATA[$desc$]]></summary>
+    <content type="html"><![CDATA[$content$]]></content>
 </entry>
